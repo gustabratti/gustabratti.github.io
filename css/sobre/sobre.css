@@ -10,7 +10,8 @@
   grid-template-columns: auto 1fr;
   align-items: start;
   border-radius: 8px;
-  gap: 5%;
+  gap: 5%;;
+  overflow: hidden;
 }
 
 .sobre-texto {
@@ -18,7 +19,7 @@
 }
 
 .sobre-texto h1 {
-  padding: 100px 0px 60px;
+  padding: 20px 0px 60px;
   font-size: 2.5rem;
 }
 
@@ -34,7 +35,6 @@
 .sobre-texto p {
   text-indent: 50px;
   font-size: 1.5rem;
-  max-width: 70ch;
 }
 
 .sobre-container img {

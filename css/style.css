@@ -15,4 +15,7 @@
 @import "./sobre/sobre.css";
 
 /*estilos pagina de produtos*/
-@import "./produtos/produtos.css"
+@import "./produtos/produtos.css";
+
+/*estilos pagina de carrinho*/
+@import "./carrinho-compras/carrinho.css"
